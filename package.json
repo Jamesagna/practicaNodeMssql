@@ -1,0 +1,17 @@
+{
+  "name": "practicafinalad",
+  "version": "1.0.0",
+  "description": "Practicca final de Acceso a Datos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime AN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "msnodesqlv8": "^0.6.12",
+    "mssql": "^4.3.2"
+  }
+}
